@@ -1,7 +1,4 @@
 export {default as Home} from "./Home"
-export {default as Trepcismo} from "./Trepcismo"
-export {default as Sobre} from "./Sobre"
-export {default as Galeria} from "./Galeria"
-export {default as Faqpage} from "./Faq"
-export {default as Login} from "./Login"
-export {default as Registrar} from "./Registrar"
+export {default as Nao} from "./Nao"
+export {default as Sim} from "./Sim"
+
